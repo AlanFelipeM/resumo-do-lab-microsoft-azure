@@ -3,9 +3,11 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 
 A comparação entre modelos de nuvem envolve três principais tipos: Nuvem Pública, Nuvem Privada e Nuvem Híbrida.
 
-*Nuvem Pública é gerenciada por provedores externos (como AWS, Azure ou Google Cloud), oferecendo escalabilidade e baixo custo inicial. A segurança e controle são menores, já que os recursos são compartilhados com outros usuários. br/
-*Nuvem Privada é mantida internamente pela organização ou por um provedor exclusivo, garantindo mais controle e segurança, mas com maior custo e necessidade de gerenciamento interno. br/
-*Nuvem Híbrida combina as vantagens das nuvens pública e privada, permitindo flexibilidade para ajustar as demandas de acordo com as necessidades da empresa, mas envolve maior complexidade de gerenciamento. br/
+*Nuvem Pública é gerenciada por provedores externos (como AWS, Azure ou Google Cloud), oferecendo escalabilidade e baixo custo inicial. A segurança e controle são menores, já que os recursos são compartilhados com outros usuários. 
+
+*Nuvem Privada é mantida internamente pela organização ou por um provedor exclusivo, garantindo mais controle e segurança, mas com maior custo e necessidade de gerenciamento interno.
+
+*Nuvem Híbrida combina as vantagens das nuvens pública e privada, permitindo flexibilidade para ajustar as demandas de acordo com as necessidades da empresa, mas envolve maior complexidade de gerenciamento. 
 
 A comparação entre CapEx (Capital Expenditure) e OpEx (Operational Expenditure) também é fundamental:
 
