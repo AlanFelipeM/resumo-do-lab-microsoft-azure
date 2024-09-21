@@ -11,8 +11,10 @@ A comparação entre modelos de nuvem envolve três principais tipos: Nuvem Púb
 
 A comparação entre CapEx (Capital Expenditure) e OpEx (Operational Expenditure) também é fundamental:
 
-CapEx refere-se a despesas de capital, ou seja, investimentos iniciais em infraestrutura, como servidores e data centers, que são contabilizados ao longo do tempo.
-OpEx é relacionado às despesas operacionais, como o pagamento mensal ou anual por serviços de nuvem, onde a empresa paga conforme o uso, reduzindo o investimento inicial.
+*CapEx refere-se a despesas de capital, ou seja, investimentos iniciais em infraestrutura, como servidores e data centers, que são contabilizados ao longo do tempo.
+
+*OpEx é relacionado às despesas operacionais, como o pagamento mensal ou anual por serviços de nuvem, onde a empresa paga conforme o uso, reduzindo o investimento inicial.
+
 Enquanto CapEx oferece maior controle sobre a infraestrutura, OpEx permite flexibilidade financeira e evita gastos elevados iniciais, tornando-se mais alinhado ao uso de serviços de nuvem.
 
 
