@@ -1,7 +1,7 @@
 # resumo-do-lab-microsoft-azure
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
 
-A comparação entre modelos de nuvem envolve três principais tipos: Nuvem Pública, Nuvem Privada e Nuvem Híbrida.
+<h3>A comparação entre modelos de nuvem envolve três principais tipos: Nuvem Pública, Nuvem Privada e Nuvem Híbrida.</h3>
 
 *Nuvem Pública é gerenciada por provedores externos (como AWS, Azure ou Google Cloud), oferecendo escalabilidade e baixo custo inicial. A segurança e controle são menores, já que os recursos são compartilhados com outros usuários. 
 
@@ -9,7 +9,7 @@ A comparação entre modelos de nuvem envolve três principais tipos: Nuvem Púb
 
 *Nuvem Híbrida combina as vantagens das nuvens pública e privada, permitindo flexibilidade para ajustar as demandas de acordo com as necessidades da empresa, mas envolve maior complexidade de gerenciamento. 
 
-A comparação entre CapEx (Capital Expenditure) e OpEx (Operational Expenditure) também é fundamental:
+<h3>A comparação entre CapEx (Capital Expenditure) e OpEx (Operational Expenditure) também é fundamental:</h3>
 
 *CapEx refere-se a despesas de capital, ou seja, investimentos iniciais em infraestrutura, como servidores e data centers, que são contabilizados ao longo do tempo.
 
