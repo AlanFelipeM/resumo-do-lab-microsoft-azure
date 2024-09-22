@@ -18,6 +18,20 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 Enquanto CapEx oferece maior controle sobre a infraestrutura, OpEx permite flexibilidade financeira e evita gastos elevados iniciais, tornando-se mais alinhado ao uso de serviços de nuvem.
 
 
+# Benefícios da Nuvem Azure
+
+## Escalabilidade e Elasticidade
+A **nuvem Azure** oferece **escalabilidade automática**, permitindo que os recursos aumentem ou diminuam de acordo com a demanda, garantindo que você pague apenas pelo que utiliza. Isso facilita o gerenciamento de cargas de trabalho variáveis sem comprometer a performance.
+
+## Confiabilidade, Previsibilidade e Segurança
+O Azure fornece alta **confiabilidade** com um SLA (Acordo de Nível de Serviço) de até **99,99% de disponibilidade**, assegurando que seus serviços estarão acessíveis praticamente o tempo todo. A plataforma também oferece **previsibilidade de custos**, permitindo que as empresas monitorem e ajustem o consumo de recursos com precisão. Além disso, a segurança de nível empresarial com criptografia de dados, firewalls avançados e controles de acesso garantem que suas informações estejam sempre protegidas.
+
+## Governança e Gerenciabilidade
+Com ferramentas robustas de **governança**, o Azure possibilita a implementação de políticas e controles, ajudando a gerenciar e supervisionar recursos com eficiência. A **gerenciabilidade** da plataforma permite que as operações de TI sejam otimizadas através de monitoramento em tempo real, análise de logs e automação de processos, facilitando o gerenciamento dos recursos em um ambiente multi-cloud.
+
+Esses benefícios fazem do Azure uma solução ideal para empresas que buscam flexibilidade, segurança e controle no gerenciamento de suas operações em nuvem.
+
+
 
 
 
